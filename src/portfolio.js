@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://trinitydevs.github.io/portifolio',
+  homepage: 'https://trinitydevs.github.io',
   title: 'td',
 }
 
@@ -27,8 +27,8 @@ const projects = [
     name: 'Átrio',
     description:
       'Uma plataforma de orientação e acessibilidade para museus, com mapa interativo em tempo real.',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://www.figma.com/design/Qzy33L9XljDTGN05eVUyJu/Prot%C3%B3tipo-MapArte---Baixa--m%C3%A9dia-e-alta?node-id=593-1102&t=cmPjxJirUjAEhZ1v-1',
+    stack: ['Figma', 'UX/UI', ''],
+    sourceCode: 'https://www.behance.net/gallery/256752945/Atrio-Acessibilidade-nos-Museus',
     livePreview: 'https://www.figma.com/proto/Qzy33L9XljDTGN05eVUyJu/Prot%C3%B3tipo-MapArte---Baixa--m%C3%A9dia-e-alta?node-id=617-144&t=cmPjxJirUjAEhZ1v-0&scaling=scale-down&content-scaling=fixed&page-id=1%3A3',
     image: 'atrio.png',
   },
@@ -36,7 +36,7 @@ const projects = [
     name: 'Pelos & Lambeijos',
     description:
       'Aplicativo mobile, com foco no gerenciamento interno e no agendamento de serviços de banho e tosa.',
-    stack: ['SASS', 'TypeScript', 'React'],
+    stack: ['React Native', 'Javascript', 'MongoDB', '5º Semestre'],
     sourceCode: 'https://github.com/Workflow-FatecItaquera/Pets',
     livePreview: 'https://github.com',
     image: 'peloselambeijos.png',
@@ -45,7 +45,7 @@ const projects = [
     name: 'IP Repository',
     description:
       'Uma plataforma web destinada ao acesso e hospedagem de Projetos Interdisciplinares das FATECS.',
-    stack: ['SASS', 'TypeScript', 'React'],
+    stack: ['VueJS', 'TypeScript', 'PHP', '2º Semestre'],
     sourceCode: 'https://github.com/DSM2SEM2024/-workflow',
     livePreview: 'https://dsm2sem2024.github.io/-workflow/#/',
     image: 'iprepository.png',
@@ -54,7 +54,7 @@ const projects = [
     name: 'Esfera Odontologia & Saúde',
     description:
       'Uma plataforma web integrada, unindo site institucional e sistema interno da clínica.',
-    stack: ['SASS', 'TypeScript', 'React'],
+    stack: ['Javascript', 'MySQL', '4º Semestre'],
     sourceCode: 'https://github.com/Workflow-FatecItaquera/EsferaOdontologiaSaude',
     livePreview: 'https://github.com',
     image: 'esferaodontologiaesaude.png',
@@ -63,7 +63,7 @@ const projects = [
     name: 'Pilates',
     description:
       'Uma plataforma web e responsiva de pilates para gerenciar planos e agendamentos de aulas.',
-    stack: ['SASS', 'TypeScript', 'React'],
+    stack: ['Java', 'MongoDB', '3º Semestre'],
     sourceCode: 'https://github.com/Workflow-FatecItaquera/pilates',
     livePreview: 'https://pilates-s9q6.onrender.com/',
     image: 'pilates.png',
@@ -72,7 +72,7 @@ const projects = [
     name: 'Ateliê Buguela',
     description:
       'Uma plataforma web com foco em exposição e venda de artesanato para mulheres afro brasileiras.',
-    stack: ['SASS', 'TypeScript', 'React'],
+    stack: ['Javascript', 'Bootstrap', '1º Semestre'],
     sourceCode: 'https://github.com/GustavoJoia/AtelieBuguela',
     livePreview: 'https://gustavojoia.github.io/AtelieBuguela/',
     image: 'ateliebuguela.png',
@@ -82,6 +82,8 @@ const projects = [
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
+  'Inglês Intermediário',
+  'Espanhol Intermediário',
   'React',
   'React Native',
   'Angular',
