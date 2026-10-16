@@ -38,7 +38,7 @@ const projects = [
       'Aplicativo mobile, com foco no gerenciamento interno e no agendamento de serviços de banho e tosa.',
     stack: ['React Native', 'Javascript', 'MongoDB', '5º Semestre'],
     sourceCode: 'https://github.com/Workflow-FatecItaquera/Pets',
-    livePreview: 'https://github.com',
+    livePreview: 'https://canva.link/8k3wfv1mxowsdlj',
     image: 'peloselambeijos.png',
   },
   {
@@ -56,7 +56,7 @@ const projects = [
       'Uma plataforma web integrada, unindo site institucional e sistema interno da clínica.',
     stack: ['Javascript', 'MySQL', '4º Semestre'],
     sourceCode: 'https://github.com/Workflow-FatecItaquera/EsferaOdontologiaSaude',
-    livePreview: 'https://github.com',
+    livePreview: 'https://canva.link/3cs5bjfzecig9by',
     image: 'esferaodontologiaesaude.png',
   },
   {
